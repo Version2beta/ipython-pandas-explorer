@@ -6,5 +6,5 @@ This repository holds some python resources used in my iPython and Pandas presen
 
 0. `pip install -r requirements.txt` - get the pip packages (might need `sudo`)
 0. `ipython notebook` - launch iPython Notebook (will also launch your browser)
-0. Profit.
+0. Explore and profit.
 
